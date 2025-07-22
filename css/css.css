@@ -585,8 +585,6 @@ div {
 
 /* */
 
-
-
 @media all and (min-width: 500px) {
     #countdown {
     font-size: clamp(1rem, 5vw, 4rem);
@@ -869,7 +867,7 @@ div {
 @media all and (min-width: 992px) {
     #countdown {
     font-size: clamp(1rem, 5vw, 4rem);
-    letter-spacing: 1px;
+    letter-spacing: 2px;
     display: flex;
     text-align: center;
     align-items: center;
